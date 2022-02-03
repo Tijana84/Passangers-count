@@ -1,0 +1,30 @@
+.container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.title {
+    color: #bd6868;
+    margin-top: 30px;
+}
+
+.counter {
+    margin: 30px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.saved-wrapper {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.saved {
+    margin-top: 5px;
+    font-weight: bold;
+}
